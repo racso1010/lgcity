@@ -1,0 +1,7 @@
+
+wp-content/*
+wp-config-local.php
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
+!.gitginore
